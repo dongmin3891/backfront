@@ -1,4 +1,4 @@
-#test
+
 name: remote ssh command for deploy
 on:
  push:
